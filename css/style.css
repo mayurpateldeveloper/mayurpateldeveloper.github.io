@@ -1250,7 +1250,7 @@ a.agilebtn {
 
 #map {
     width: 100%;
-    height: 393px;
+    height: auto;
 }
 .contact-grids h5 {
     padding-bottom: 1em!important;
